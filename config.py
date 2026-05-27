@@ -49,12 +49,12 @@ API_KEY = getenv(
 
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL",
-    "https://t.me/ShrutiBots"
+    "https://t.me/chgajezp"
 )
 
 SUPPORT_CHAT = getenv(
     "SUPPORT_CHAT",
-    "https://t.me/ShrutiSupportChat"
+    "https://t.me/sukasukazp"
 )
 
 AUTO_LEAVING_ASSISTANT = getenv(
