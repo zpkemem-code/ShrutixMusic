@@ -168,13 +168,13 @@ ping_2 : "🏓 ᴩᴏɴɢ : <code>{0}ᴍs</code>\n\n<b><u>{1} sʏsᴛᴇᴍ sᴛ
 queue_1 : "» ᴍᴇɴᴄᴀʀɪ ᴀʟɪʀᴀɴ..\n\nᴍᴏʜᴏɴ ᴛᴜɴɢɢᴜ..."
 queue_2 : "» ᴀʟɪʀᴀɴ ᴋᴏsᴏɴɢ."
 queue_3 : "<u>» ᴋʟɪᴋ ᴅɪsɪɴɪ ᴜɴᴛᴜᴋ ᴍᴇʟɪʜᴀᴛ sᴇᴍᴜᴀ ᴀɴᴛʀɪᴀɴ:</u> <a href={0}>ʜᴇʀᴇ</a>"
-queue_4 : "<blockquote>⌛️ <b>ᴅɪᴛᴀᴍʙᴀʜᴋᴀɴ ᴋᴇ ᴀɴᴛʀɪᴀɴ ᴅɪ #{0}\n\n🎸 ᴊᴜᴅᴜʟ :</b> {1}\n<b>⏰ ᴅᴜʀᴀsɪ :</b> {2} ᴍᴇɴɪᴛ\n<b>📥 ʀᴇϙ ʙʏ :</b> {3}</blockquote>"
+queue_4 : "<blockquote>⌛️ <b>Ditambahkan Ke Antrian #{0}\n\n🎶 Judul :</b> {1}\n<b>⏰ Durasi :</b> {2} ᴍᴇɴɪᴛ\n<b>📥 Diminta Oleh :</b> {3}</blockquote>"
 queue_5 : "ʜᴀɴʏᴀ sᴀᴛᴜ ᴀɴᴛʀɪᴀɴ ᴅɪ ᴘʟᴀʏʟɪsᴛ.\n\nᴛᴀᴍʙᴀʜᴋᴀɴ ʟᴀɢɪ ʏᴀ ᴋᴀʟᴏ ᴍᴀᴜ ʟɪᴀᴛ ᴀɴᴛʀɪᴀɴ."
 queue_6 : "<b>🕚 ᴅᴜʀᴀsɪ :</b> ᴅᴜʀᴀsɪ sᴛʀᴇᴀᴍ ᴛɪᴅᴀᴋ ᴅɪᴋᴇᴛᴀʜᴜɪ\n\nᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴜɴᴛᴜᴋ ᴍᴇʟɪʜᴀᴛ sᴇᴍᴜᴀ ᴀɴᴛʀɪᴀɴ."
 queue_7 : "\nᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴜɴᴛᴜᴋ ᴍᴇʟɪʜᴀᴛ sᴇᴍᴜᴀ ᴀɴᴛʀɪᴀɴ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>ᴛɪᴘᴇ sᴛʀᴇᴀᴍ :</b> {2}\n🥀 <b>ʀᴇǫ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<blockquote>🎧 <b>ᴍᴇᴍᴜʟᴀɪ sᴛʀᴇᴀᴍɪɴɢ |</b>\n\n<b>🎸 ᴊᴜᴅᴜʟ :</b> <a href={0}>{1}</a>\n<b>⏰ ᴅᴜʀᴀsɪ :</b> {2} ᴍᴇɴɪᴛ\n<b>📥 ʀᴇϙ ʙʏ :</b> {3}</blockquote>"
+stream_1 : "<blockquote>🎧 <b>Mulai Streaming |</b>\n\n<b>💻 Judul :</b> <a href={0}>{1}</a>\n<b>⏰ Durasi :</b> {2} ᴍᴇɴɪᴛ\n<b>👁‍🗨 Diminta Oleh :</b> {3}</blockquote>"
 stream_2 : "➲ <b>ᴍᴇᴍᴜʟᴀɪ Sᴛʀᴇᴀᴍɪɴɢ |</b>\n\n<b>‣ Sᴛʀᴇᴀᴍ ᴛɪᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>‣ ʀᴇϙ ʙʏ :</b> {0}"
 
 
